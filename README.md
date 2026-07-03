@@ -44,6 +44,7 @@ Welcome to my personal portfolio repository! This is a slick, responsive web app
 ---
 
 ## 📸 Preview
+<img width="1918" height="982" alt="image" src="https://github.com/user-attachments/assets/cec5a30c-0bbc-40d4-9e34-4873bd1db1cb" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2g0Y2M2NTA0bDJnd3N5OHg1M2swN3pndW9maXp3ZzZ4N3p5cjZpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfZ2lmY29waWxvdCZjdD1n/3ov9k01Y5IKizepLYc/giphy.gif" width="700" alt="Web Development Animation"/>
